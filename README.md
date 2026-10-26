@@ -5,7 +5,7 @@ PDF-Export, Druckansicht und voller Design-Steuerung. Entwickelt mit Fokus auf
 B2C/B2B-Shops, die zusätzlich zum Online-Shop einen klassischen Katalog
 brauchen (z. B. zum Verschicken, Ausdrucken oder am Counter).
 
-Plugin-Code liegt unter `wc-professional-catalog/`.
+Die Plugin-Dateien liegen im Wurzelverzeichnis dieses Repositorys – der Ordnername für die Installation lautet `wc-professional-catalog`.
 
 ## Features
 
